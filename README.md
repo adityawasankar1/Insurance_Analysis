@@ -19,3 +19,9 @@
 
 # Dashboard Using Tableau
 ![Insurance Analysis (Tableau Dashboard)](https://github.com/adityawasankar1/Insurance_Analysis/assets/121103358/4060c41d-567b-4057-90d4-754517189f39)
+
+
+
+# Dashboard Using Excel
+![Insurance Analysis (Excel Dashboard)](https://github.com/adityawasankar1/Insurance_Analysis/assets/121103358/43604fa3-d792-4ad1-bf69-6c70ac348f0a)
+
